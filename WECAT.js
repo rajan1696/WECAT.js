@@ -1,4 +1,4 @@
-let fs=require("fs")
+let fs=require("fs")//fs basically used for to 
 
 let path=require("path")
 
